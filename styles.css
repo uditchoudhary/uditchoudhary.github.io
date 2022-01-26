@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(220, 226, 226);
+}
+
+table {
+    padding: 15px;
+}
+
+h2, h3 {
+    padding-left:30px;
+}
+
+div.social-icon img{
+    width:30px;
+    height:30px;
+}
